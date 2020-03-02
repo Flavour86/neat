@@ -37,8 +37,7 @@
     "postcss-sprites": "^4.2.1",
     "postcss-url": "^7.3.0",
     "precss": "^4.0.0",
-    "rucksack-css": "^1.0.2",
-    "vuex-action": "^1.2.1"
+    "rucksack-css": "^1.0.2"
   },
   "bugs": {
     "url": "https://github.com/Flavour86/neat/issues"
