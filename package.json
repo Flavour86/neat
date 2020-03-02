@@ -1,6 +1,6 @@
 {
   "name": "neat-gulp-xgj",
-  "version": "1.0.1",
+  "version": "1.0.5",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
@@ -13,7 +13,8 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
-  "devDependencies": {
+  "private": false,
+  "dependencies": {
     "autoprefixer": "^7.2.2",
     "browser-sync": "^2.13.0",
     "cssnano": "^3.10.0",
@@ -36,7 +37,8 @@
     "postcss-sprites": "^4.2.1",
     "postcss-url": "^7.3.0",
     "precss": "^4.0.0",
-    "rucksack-css": "^1.0.2"
+    "rucksack-css": "^1.0.2",
+    "vuex-action": "^1.2.1"
   },
   "bugs": {
     "url": "https://github.com/Flavour86/neat/issues"
